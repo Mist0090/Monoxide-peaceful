@@ -1,0 +1,18 @@
+﻿  threads.c
+  payloads.c
+c:\users\owner\デスクトップ\monoxide-main\monoxide\payloads.c(64): error C2220: 警告をエラーとして扱いました。'object' ファイルは生成されません。
+c:\users\owner\デスクトップ\monoxide-main\monoxide\payloads.c(64): warning C4204: 非標準の拡張機能が使用されています: 定数でない初期化子の集合です。
+c:\users\owner\デスクトップ\monoxide-main\monoxide\payloads.c(65): warning C4204: 非標準の拡張機能が使用されています: 定数でない初期化子の集合です。
+  math.c
+  main.c
+  extra_payloads.c
+  destruction.c
+c:\users\owner\デスクトップ\monoxide-main\monoxide\destruction.c(379): error C2220: 警告をエラーとして扱いました。'object' ファイルは生成されません。
+c:\users\owner\デスクトップ\monoxide-main\monoxide\destruction.c(379): warning C4054: '型キャスト': 'FARPROC' 関数ポインターが 'PVOID' データポインターへキャストされています。
+c:\users\owner\デスクトップ\monoxide-main\monoxide\destruction.c(380): warning C4054: '型キャスト': 'FARPROC' 関数ポインターが 'PVOID' データポインターへキャストされています。
+c:\users\owner\デスクトップ\monoxide-main\monoxide\destruction.c(381): warning C4054: '型キャスト': 'FARPROC' 関数ポインターが 'PVOID' データポインターへキャストされています。
+c:\users\owner\デスクトップ\monoxide-main\monoxide\destruction.c(439): warning C4054: '型キャスト': 'FARPROC' 関数ポインターが 'PVOID' データポインターへキャストされています。
+c:\users\owner\デスクトップ\monoxide-main\monoxide\destruction.c(440): warning C4054: '型キャスト': 'FARPROC' 関数ポインターが 'PVOID' データポインターへキャストされています。
+  color.c
+  callbacks.c
+  コードを生成中...
